@@ -1,8 +1,6 @@
 import './movieInfos.css'
 
 
-
-
 function MovieInfos() {
     return (
         <>

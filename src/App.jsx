@@ -4,10 +4,6 @@ import Footer from './components/footer'
 import Logo from "../src/images/Cinemax.png"
 
 
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
-
-import { home, movieInfos } from './pages'
-
 function App() {
   return (
     <>
@@ -34,5 +30,3 @@ function Header() {
     </>
   )
 }
-
-

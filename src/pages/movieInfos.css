@@ -1,12 +1,11 @@
 #root {
-    width: 440px;
-    height: 100%;
-    background-image: linear-gradient(to bottom,#151922 50%,#898989);
-    color: #F0EFE7;
-  }
+  width: 440px;
+  height: 100%;
+  background-image: linear-gradient(to bottom,#151922 50%,#898989);
+  color: #F0EFE7;
+}
 
-  * {
-    margin: 0;
-  }
+* {
+  margin: 0;
+}
 
-  
